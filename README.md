@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **44** | 0 | 44 | 0 | `2026-09-26` |
+| **45** | 0 | 45 | 0 | `2026-09-26` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (44)
+### DSA (45)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -23,43 +23,44 @@
 | 0005 | [743. Check if the Array is Sorted I](./DSA/Beginner-Problems/check-if-the-array-is-sorted-i) | [JAVA](./DSA/Beginner-Problems/check-if-the-array-is-sorted-i/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
 | 0006 | [950. Count number of odd digits in a number](./DSA/Beginner-Problems/count-number-of-odd-digits-in-a-number) | [JAVA](./DSA/Beginner-Problems/count-number-of-odd-digits-in-a-number/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
 | 0007 | [873. Count of odd numbers in Array](./DSA/Beginner-Problems/count-of-odd-numbers-in-array) | [JAVA](./DSA/Beginner-Problems/count-of-odd-numbers-in-array/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0008 | [190. Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [JAVA](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0009 | [908. Factorial of a given number](./DSA/Beginner-Problems/factorial-of-a-given-number-i) | [JAVA](./DSA/Beginner-Problems/factorial-of-a-given-number-i/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0010 | [179. Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [JAVA](./DSA/Graphs/flood-fill-algorithm/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0011 | [702. Largest Element](./DSA/Arrays/largest-element) | [JAVA](./DSA/Arrays/largest-element/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-26` |
-| 0012 | [838. Linear Search](./DSA/Arrays/linear-search) | [JAVA](./DSA/Arrays/linear-search/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-26` |
-| 0013 | [1020. Merge Sorting](./DSA/Sorting/merge-sorting) | [JAVA](./DSA/Sorting/merge-sorting/solution.java) | ⚪ Unspecified | `General` | `2026-09-26` |
-| 0014 | [481. Number of enclaves](./DSA/Graphs/number-of-enclaves) | [JAVA](./DSA/Graphs/number-of-enclaves/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0015 | [5. Number of islands](./DSA/Graphs/number-of-islands) | [JAVA](./DSA/Graphs/number-of-islands/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0016 | [262. Number of provinces](./DSA/Graphs/number-of-provinces) | [JAVA](./DSA/Graphs/number-of-provinces/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0017 | [211. Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [JAVA](./DSA/Beginner-Problems/palindrome-number/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0018 | [896. Pattern 1](./DSA/Beginner-Problems/pattern-1) | [JAVA](./DSA/Beginner-Problems/pattern-1/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0019 | [898. Pattern 10](./DSA/Beginner-Problems/pattern-10) | [JAVA](./DSA/Beginner-Problems/pattern-10/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0020 | [907. Pattern 11](./DSA/Beginner-Problems/pattern-11) | [JAVA](./DSA/Beginner-Problems/pattern-11/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0021 | [909. Pattern 12](./DSA/Beginner-Problems/pattern-12) | [JAVA](./DSA/Beginner-Problems/pattern-12/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0022 | [918. Pattern 13](./DSA/Beginner-Problems/pattern-13) | [JAVA](./DSA/Beginner-Problems/pattern-13/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0023 | [920. Pattern 14](./DSA/Beginner-Problems/pattern-14) | [JAVA](./DSA/Beginner-Problems/pattern-14/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0024 | [929. Pattern 15](./DSA/Beginner-Problems/pattern-15) | [JAVA](./DSA/Beginner-Problems/pattern-15/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0025 | [931. Pattern 16](./DSA/Beginner-Problems/pattern-16) | [JAVA](./DSA/Beginner-Problems/pattern-16/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0026 | [951. Pattern 19](./DSA/Beginner-Problems/pattern-19) | [JAVA](./DSA/Beginner-Problems/pattern-19/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0027 | [953. Pattern 2](./DSA/Beginner-Problems/pattern-2) | [JAVA](./DSA/Beginner-Problems/pattern-2/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0028 | [964. Pattern 21](./DSA/Beginner-Problems/pattern-21) | [JAVA](./DSA/Beginner-Problems/pattern-21/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0029 | [975. Pattern 3](./DSA/Beginner-Problems/pattern-3) | [JAVA](./DSA/Beginner-Problems/pattern-3/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0030 | [984. Pattern 4](./DSA/Beginner-Problems/pattern-4) | [JAVA](./DSA/Beginner-Problems/pattern-4/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0031 | [986. Pattern 5](./DSA/Beginner-Problems/pattern-5) | [JAVA](./DSA/Beginner-Problems/pattern-5/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0032 | [995. Pattern 6](./DSA/Beginner-Problems/pattern-6) | [JAVA](./DSA/Beginner-Problems/pattern-6/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0033 | [997. Pattern 7](./DSA/Beginner-Problems/pattern-7) | [JAVA](./DSA/Beginner-Problems/pattern-7/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0034 | [1006. Pattern 8](./DSA/Beginner-Problems/pattern-8) | [JAVA](./DSA/Beginner-Problems/pattern-8/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0035 | [1008. Pattern 9](./DSA/Beginner-Problems/pattern-9) | [JAVA](./DSA/Beginner-Problems/pattern-9/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0036 | [936. Recursive Bubble Sort](./DSA/Recursion/recursive-bubble-sort) | [JAVA](./DSA/Recursion/recursive-bubble-sort/solution.java) | ⚪ Unspecified | `Recursion` | `2026-09-26` |
-| 0037 | [957. Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [JAVA](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0038 | [101. Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [JAVA](./DSA/Beginner-Problems/reverse-a-number/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-09-26` |
-| 0039 | [741. Reverse an array](./DSA/Beginner-Problems/reverse-an-array) | [JAVA](./DSA/Beginner-Problems/reverse-an-array/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0040 | [19. Rotten Oranges](./DSA/Graphs/rotten-oranges) | [JAVA](./DSA/Graphs/rotten-oranges/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0041 | [695. Second Largest Element](./DSA/Arrays/second-largest-element) | [JAVA](./DSA/Arrays/second-largest-element/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-26` |
-| 0042 | [1031. Selection Sort](./DSA/Sorting/selection-sort) | [JAVA](./DSA/Sorting/selection-sort/solution.java) | 🟡 Medium | `Sorting` | `2026-09-26` |
-| 0043 | [886. Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0044 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [JAVA](./DSA/Graphs/traversal-techniques/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0008 | [790. Count of Prime Numbers till N](./DSA/Beginner-Problems/count-of-prime-numbers-till-n) | [JAVA](./DSA/Beginner-Problems/count-of-prime-numbers-till-n/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0009 | [190. Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [JAVA](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0010 | [908. Factorial of a given number](./DSA/Beginner-Problems/factorial-of-a-given-number-i) | [JAVA](./DSA/Beginner-Problems/factorial-of-a-given-number-i/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0011 | [179. Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [JAVA](./DSA/Graphs/flood-fill-algorithm/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0012 | [702. Largest Element](./DSA/Arrays/largest-element) | [JAVA](./DSA/Arrays/largest-element/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-26` |
+| 0013 | [838. Linear Search](./DSA/Arrays/linear-search) | [JAVA](./DSA/Arrays/linear-search/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-26` |
+| 0014 | [1020. Merge Sorting](./DSA/Sorting/merge-sorting) | [JAVA](./DSA/Sorting/merge-sorting/solution.java) | ⚪ Unspecified | `General` | `2026-09-26` |
+| 0015 | [481. Number of enclaves](./DSA/Graphs/number-of-enclaves) | [JAVA](./DSA/Graphs/number-of-enclaves/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0016 | [5. Number of islands](./DSA/Graphs/number-of-islands) | [JAVA](./DSA/Graphs/number-of-islands/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0017 | [262. Number of provinces](./DSA/Graphs/number-of-provinces) | [JAVA](./DSA/Graphs/number-of-provinces/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0018 | [211. Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [JAVA](./DSA/Beginner-Problems/palindrome-number/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0019 | [896. Pattern 1](./DSA/Beginner-Problems/pattern-1) | [JAVA](./DSA/Beginner-Problems/pattern-1/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0020 | [898. Pattern 10](./DSA/Beginner-Problems/pattern-10) | [JAVA](./DSA/Beginner-Problems/pattern-10/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0021 | [907. Pattern 11](./DSA/Beginner-Problems/pattern-11) | [JAVA](./DSA/Beginner-Problems/pattern-11/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0022 | [909. Pattern 12](./DSA/Beginner-Problems/pattern-12) | [JAVA](./DSA/Beginner-Problems/pattern-12/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0023 | [918. Pattern 13](./DSA/Beginner-Problems/pattern-13) | [JAVA](./DSA/Beginner-Problems/pattern-13/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0024 | [920. Pattern 14](./DSA/Beginner-Problems/pattern-14) | [JAVA](./DSA/Beginner-Problems/pattern-14/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0025 | [929. Pattern 15](./DSA/Beginner-Problems/pattern-15) | [JAVA](./DSA/Beginner-Problems/pattern-15/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0026 | [931. Pattern 16](./DSA/Beginner-Problems/pattern-16) | [JAVA](./DSA/Beginner-Problems/pattern-16/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0027 | [951. Pattern 19](./DSA/Beginner-Problems/pattern-19) | [JAVA](./DSA/Beginner-Problems/pattern-19/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0028 | [953. Pattern 2](./DSA/Beginner-Problems/pattern-2) | [JAVA](./DSA/Beginner-Problems/pattern-2/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0029 | [964. Pattern 21](./DSA/Beginner-Problems/pattern-21) | [JAVA](./DSA/Beginner-Problems/pattern-21/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0030 | [975. Pattern 3](./DSA/Beginner-Problems/pattern-3) | [JAVA](./DSA/Beginner-Problems/pattern-3/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0031 | [984. Pattern 4](./DSA/Beginner-Problems/pattern-4) | [JAVA](./DSA/Beginner-Problems/pattern-4/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0032 | [986. Pattern 5](./DSA/Beginner-Problems/pattern-5) | [JAVA](./DSA/Beginner-Problems/pattern-5/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0033 | [995. Pattern 6](./DSA/Beginner-Problems/pattern-6) | [JAVA](./DSA/Beginner-Problems/pattern-6/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0034 | [997. Pattern 7](./DSA/Beginner-Problems/pattern-7) | [JAVA](./DSA/Beginner-Problems/pattern-7/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0035 | [1006. Pattern 8](./DSA/Beginner-Problems/pattern-8) | [JAVA](./DSA/Beginner-Problems/pattern-8/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0036 | [1008. Pattern 9](./DSA/Beginner-Problems/pattern-9) | [JAVA](./DSA/Beginner-Problems/pattern-9/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0037 | [936. Recursive Bubble Sort](./DSA/Recursion/recursive-bubble-sort) | [JAVA](./DSA/Recursion/recursive-bubble-sort/solution.java) | ⚪ Unspecified | `Recursion` | `2026-09-26` |
+| 0038 | [957. Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [JAVA](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0039 | [101. Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [JAVA](./DSA/Beginner-Problems/reverse-a-number/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-09-26` |
+| 0040 | [741. Reverse an array](./DSA/Beginner-Problems/reverse-an-array) | [JAVA](./DSA/Beginner-Problems/reverse-an-array/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0041 | [19. Rotten Oranges](./DSA/Graphs/rotten-oranges) | [JAVA](./DSA/Graphs/rotten-oranges/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0042 | [695. Second Largest Element](./DSA/Arrays/second-largest-element) | [JAVA](./DSA/Arrays/second-largest-element/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-26` |
+| 0043 | [1031. Selection Sort](./DSA/Sorting/selection-sort) | [JAVA](./DSA/Sorting/selection-sort/solution.java) | 🟡 Medium | `Sorting` | `2026-09-26` |
+| 0044 | [886. Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0045 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [JAVA](./DSA/Graphs/traversal-techniques/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
 
 ---
 
