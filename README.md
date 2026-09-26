@@ -6,23 +6,24 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **7** | 0 | 7 | 0 | `2026-09-26` |
+| **8** | 0 | 8 | 0 | `2026-09-26` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (7)
+### DSA (8)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [190. Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [JAVA](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0002 | [179. Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [JAVA](./DSA/Graphs/flood-fill-algorithm/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0003 | [481. Number of enclaves](./DSA/Graphs/number-of-enclaves) | [JAVA](./DSA/Graphs/number-of-enclaves/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0004 | [5. Number of islands](./DSA/Graphs/number-of-islands) | [JAVA](./DSA/Graphs/number-of-islands/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0005 | [262. Number of provinces](./DSA/Graphs/number-of-provinces) | [JAVA](./DSA/Graphs/number-of-provinces/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0006 | [19. Rotten Oranges](./DSA/Graphs/rotten-oranges) | [JAVA](./DSA/Graphs/rotten-oranges/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0007 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [JAVA](./DSA/Graphs/traversal-techniques/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0001 | [203. Bipartite graph](./DSA/Graphs/bipartite-graph) | [JAVA](./DSA/Graphs/bipartite-graph/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0002 | [190. Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [JAVA](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0003 | [179. Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [JAVA](./DSA/Graphs/flood-fill-algorithm/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0004 | [481. Number of enclaves](./DSA/Graphs/number-of-enclaves) | [JAVA](./DSA/Graphs/number-of-enclaves/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0005 | [5. Number of islands](./DSA/Graphs/number-of-islands) | [JAVA](./DSA/Graphs/number-of-islands/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0006 | [262. Number of provinces](./DSA/Graphs/number-of-provinces) | [JAVA](./DSA/Graphs/number-of-provinces/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0007 | [19. Rotten Oranges](./DSA/Graphs/rotten-oranges) | [JAVA](./DSA/Graphs/rotten-oranges/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0008 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [JAVA](./DSA/Graphs/traversal-techniques/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
 
 ---
 
