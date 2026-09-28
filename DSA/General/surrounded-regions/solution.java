@@ -12,13 +12,12 @@ class Solution {
         int n=mat.length;
         int m=mat[0].length;
         Queue<Pair> q=new LinkedList<>();
-        boolean[][] visited=new boolean[n][m];
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(i==0 || j==0 || i==n-1 || j==m-1){
                     if(mat[i][j]=='O'){
                         q.add(new Pair(i,j));
-                        visited[i][j]=true;
+                        mat[i][j]='#';
                     }
                 }
             }
@@ -36,25 +35,23 @@ class Solution {
                 int delrow=r+dr[i];
                 int delcol=c+dc[i];
 
-                if(delrow>=0 && delrow<n && delcol>=0 && delcol<m && !visited[delrow][delcol] && mat[delrow][delcol]=='O'){
+                if(delrow>=0 && delrow<n && delcol>=0 && delcol<m && mat[delrow][delcol]=='O'){
                     q.add(new Pair(delrow,delcol));
-                    visited[delrow][delcol]=true;
+                    mat[delrow][delcol]='#';
                 }
             }
         }
 
-
-        char[][] ans=new char[n][m];
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(!visited[i][j]){
-                    ans[i][j]='X';
+                if(mat[i][j]=='#'){
+                    mat[i][j]='O';
                 }else{
-                    ans[i][j]='O';
+                    mat[i][j]='X';
                 }
             }
         }
-        return ans;
+        return mat;
 
 
 
