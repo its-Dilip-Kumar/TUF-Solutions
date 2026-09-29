@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **95** | 0 | 95 | 0 | `2026-09-29` |
+| **96** | 0 | 96 | 0 | `2026-09-29` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (95)
+### DSA (96)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -87,30 +87,31 @@
 | 0069 | [1008. Pattern 9](./DSA/Beginner-Problems/pattern-9) | [JAVA](./DSA/Beginner-Problems/pattern-9/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
 | 0070 | [168. Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | ⚪ Unspecified | `Trees` | `2026-09-29` |
 | 0071 | [42. Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | ⚪ Unspecified | `Trees` | `2026-09-29` |
-| 0072 | [107. Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
-| 0073 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0074 | [936. Recursive Bubble Sort](./DSA/Recursion/recursive-bubble-sort) | [JAVA](./DSA/Recursion/recursive-bubble-sort/solution.java) | ⚪ Unspecified | `Recursion` | `2026-09-26` |
-| 0075 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0076 | [885. Requirements needed to construct a unique BT](./DSA/General/requirements-needed-to-construct-a-unique-bt) | [JAVA](./DSA/General/requirements-needed-to-construct-a-unique-bt/solution.java) | ⚪ Unspecified | `General` | `2026-09-29` |
-| 0077 | [957. Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [JAVA](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0078 | [101. Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [JAVA](./DSA/Beginner-Problems/reverse-a-number/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-09-26` |
-| 0079 | [357. Reverse a String II](./DSA/Beginner-Problems/reverse-a-string-ii) | [JAVA](./DSA/Beginner-Problems/reverse-a-string-ii/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0080 | [741. Reverse an array](./DSA/Beginner-Problems/reverse-an-array) | [JAVA](./DSA/Beginner-Problems/reverse-an-array/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0081 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0082 | [19. Rotten Oranges](./DSA/Graphs/rotten-oranges) | [JAVA](./DSA/Graphs/rotten-oranges/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0083 | [695. Second Largest Element](./DSA/Arrays/second-largest-element) | [JAVA](./DSA/Arrays/second-largest-element/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-26` |
-| 0084 | [1031. Selection Sort](./DSA/Sorting/selection-sort) | [JAVA](./DSA/Sorting/selection-sort/solution.java) | 🟡 Medium | `Sorting` | `2026-09-26` |
-| 0085 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [JAVA](./DSA/Arrays/set-matrix-zeroes/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0086 | [955. Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [JAVA](./DSA/General/shortest-path-in-dag/solution.java) | ⚪ Unspecified | `General` | `2026-09-29` |
-| 0087 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [JAVA](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-29` |
-| 0088 | [886. Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0089 | [897. Sum of Array Elements II](./DSA/Beginner-Problems/sum-of-array-elements-ii) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements-ii/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0090 | [932. Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [JAVA](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0091 | [749. Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0092 | [232. Surrounded Regions](./DSA/General/surrounded-regions) | [JAVA](./DSA/General/surrounded-regions/solution.java) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0093 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [JAVA](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0094 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [JAVA](./DSA/Graphs/traversal-techniques/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0095 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
+| 0072 | [969. Print Shortest Path](./DSA/General/print-shortest-path-) | [JAVA](./DSA/General/print-shortest-path-/solution.java) | ⚪ Unspecified | `General` | `2026-09-29` |
+| 0073 | [107. Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
+| 0074 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0075 | [936. Recursive Bubble Sort](./DSA/Recursion/recursive-bubble-sort) | [JAVA](./DSA/Recursion/recursive-bubble-sort/solution.java) | ⚪ Unspecified | `Recursion` | `2026-09-26` |
+| 0076 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0077 | [885. Requirements needed to construct a unique BT](./DSA/General/requirements-needed-to-construct-a-unique-bt) | [JAVA](./DSA/General/requirements-needed-to-construct-a-unique-bt/solution.java) | ⚪ Unspecified | `General` | `2026-09-29` |
+| 0078 | [957. Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [JAVA](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0079 | [101. Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [JAVA](./DSA/Beginner-Problems/reverse-a-number/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-09-26` |
+| 0080 | [357. Reverse a String II](./DSA/Beginner-Problems/reverse-a-string-ii) | [JAVA](./DSA/Beginner-Problems/reverse-a-string-ii/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0081 | [741. Reverse an array](./DSA/Beginner-Problems/reverse-an-array) | [JAVA](./DSA/Beginner-Problems/reverse-an-array/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0082 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0083 | [19. Rotten Oranges](./DSA/Graphs/rotten-oranges) | [JAVA](./DSA/Graphs/rotten-oranges/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0084 | [695. Second Largest Element](./DSA/Arrays/second-largest-element) | [JAVA](./DSA/Arrays/second-largest-element/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-26` |
+| 0085 | [1031. Selection Sort](./DSA/Sorting/selection-sort) | [JAVA](./DSA/Sorting/selection-sort/solution.java) | 🟡 Medium | `Sorting` | `2026-09-26` |
+| 0086 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [JAVA](./DSA/Arrays/set-matrix-zeroes/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0087 | [955. Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [JAVA](./DSA/General/shortest-path-in-dag/solution.java) | ⚪ Unspecified | `General` | `2026-09-29` |
+| 0088 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [JAVA](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-29` |
+| 0089 | [886. Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0090 | [897. Sum of Array Elements II](./DSA/Beginner-Problems/sum-of-array-elements-ii) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements-ii/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0091 | [932. Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [JAVA](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0092 | [749. Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0093 | [232. Surrounded Regions](./DSA/General/surrounded-regions) | [JAVA](./DSA/General/surrounded-regions/solution.java) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0094 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [JAVA](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0095 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [JAVA](./DSA/Graphs/traversal-techniques/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0096 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
 
 ---
 
