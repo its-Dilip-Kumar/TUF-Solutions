@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **116** | 0 | 116 | 0 | `2026-09-30` |
+| **117** | 0 | 117 | 0 | `2026-09-30` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (116)
+### DSA (117)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -117,21 +117,22 @@
 | 0099 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
 | 0100 | [19. Rotten Oranges](./DSA/Graphs/rotten-oranges) | [JAVA](./DSA/Graphs/rotten-oranges/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
 | 0101 | [13. Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-09-30` |
-| 0102 | [695. Second Largest Element](./DSA/Arrays/second-largest-element) | [JAVA](./DSA/Arrays/second-largest-element/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-26` |
-| 0103 | [1031. Selection Sort](./DSA/Sorting/selection-sort) | [JAVA](./DSA/Sorting/selection-sort/solution.java) | 🟡 Medium | `Sorting` | `2026-09-26` |
-| 0104 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [JAVA](./DSA/Arrays/set-matrix-zeroes/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0105 | [955. Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [JAVA](./DSA/General/shortest-path-in-dag/solution.java) | ⚪ Unspecified | `General` | `2026-09-29` |
-| 0106 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [JAVA](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-29` |
-| 0107 | [304. Shortest Distance in a Binary Maze](./DSA/General/shortest-path-with-minimum-effort) | [JAVA](./DSA/General/shortest-path-with-minimum-effort/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-09-30` |
-| 0108 | [886. Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0109 | [897. Sum of Array Elements II](./DSA/Beginner-Problems/sum-of-array-elements-ii) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements-ii/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0110 | [932. Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [JAVA](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0111 | [749. Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0112 | [232. Surrounded Regions](./DSA/General/surrounded-regions) | [JAVA](./DSA/General/surrounded-regions/solution.java) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0113 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [JAVA](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0114 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
-| 0115 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [JAVA](./DSA/Graphs/traversal-techniques/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0116 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
+| 0102 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
+| 0103 | [695. Second Largest Element](./DSA/Arrays/second-largest-element) | [JAVA](./DSA/Arrays/second-largest-element/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-26` |
+| 0104 | [1031. Selection Sort](./DSA/Sorting/selection-sort) | [JAVA](./DSA/Sorting/selection-sort/solution.java) | 🟡 Medium | `Sorting` | `2026-09-26` |
+| 0105 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [JAVA](./DSA/Arrays/set-matrix-zeroes/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0106 | [955. Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [JAVA](./DSA/General/shortest-path-in-dag/solution.java) | ⚪ Unspecified | `General` | `2026-09-29` |
+| 0107 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [JAVA](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-29` |
+| 0108 | [304. Shortest Distance in a Binary Maze](./DSA/General/shortest-path-with-minimum-effort) | [JAVA](./DSA/General/shortest-path-with-minimum-effort/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-09-30` |
+| 0109 | [886. Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0110 | [897. Sum of Array Elements II](./DSA/Beginner-Problems/sum-of-array-elements-ii) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements-ii/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0111 | [932. Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [JAVA](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0112 | [749. Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0113 | [232. Surrounded Regions](./DSA/General/surrounded-regions) | [JAVA](./DSA/General/surrounded-regions/solution.java) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0114 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [JAVA](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0115 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
+| 0116 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [JAVA](./DSA/Graphs/traversal-techniques/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0117 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
 
 ---
 
