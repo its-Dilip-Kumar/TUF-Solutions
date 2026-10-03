@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **157** | 0 | 157 | 0 | `2026-10-03` |
+| **158** | 0 | 158 | 0 | `2026-10-03` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (157)
+### DSA (158)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -173,6 +173,7 @@
 | 0155 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [JAVA](./DSA/Graphs/traversal-techniques/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
 | 0156 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
 | 0157 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-03` |
+| 0158 | [204. Zig Zag or Spiral Traversal](./DSA/General/zig-zag-or-spiral-traversal) | [JAVA](./DSA/General/zig-zag-or-spiral-traversal/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
 
 ---
 
