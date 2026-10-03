@@ -19,13 +19,13 @@ class Solution {
         List<Integer> ans=new ArrayList<>();
         if(root==null) return false;
         inorder(root, ans);
-        for(int i=0;i<ans.size();i++){
-            for(int j=i+1;j<ans.size();j++){
-                int target=ans.get(i)+ans.get(j);
-                if(target==k){
-                    return true;
-                }
-            }
+        int left=0;
+        int right=ans.size()-1;
+        while(left<right){
+            int sum=ans.get(left)+ans.get(right);
+            if(sum==k) return true;
+            else if(sum<k) left++;
+            else right--;
         }
         return false;
         
