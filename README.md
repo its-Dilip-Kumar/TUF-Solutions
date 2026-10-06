@@ -43,7 +43,7 @@
 | 0025 | [781. Count all Digits of a Number](./DSA/General/count-all-digits-of-a-number) | [JAVA](./DSA/General/count-all-digits-of-a-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
 | 0026 | [218. Count and say](./DSA/General/count-and-say) | [JAVA](./DSA/General/count-and-say/solution.java) | ⚪ Unspecified | `General` | `2026-10-01` |
 | 0027 | [950. Count number of odd digits in a number](./DSA/Beginner-Problems/count-number-of-odd-digits-in-a-number) | [JAVA](./DSA/Beginner-Problems/count-number-of-odd-digits-in-a-number/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0028 | [Count Number of Substrings](./DSA/Strings/count-number-of-substring) | [Solution-2](./DSA/Strings/count-number-of-substring/Solution-2.java) | ⚪ Unspecified | `Strings` | `2026-10-06` |
+| 0028 | [Count Number of Substrings](./DSA/Strings/count-number-of-substring) | [Solution-2](./DSA/Strings/count-number-of-substring/Solution-2.java) [Solution-3](./DSA/Strings/count-number-of-substring/Solution-3.java) | ⚪ Unspecified | `Strings` | `2026-10-06` |
 | 0029 | [839. Count Occurrences in a Sorted Array](./DSA/Arrays/count-occurrences-in-a-sorted-array) | [JAVA](./DSA/Arrays/count-occurrences-in-a-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 | 0030 | [873. Count of odd numbers in Array](./DSA/Beginner-Problems/count-of-odd-numbers-in-array) | [JAVA](./DSA/Beginner-Problems/count-of-odd-numbers-in-array/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
 | 0031 | [790. Count of Prime Numbers till N](./DSA/Beginner-Problems/count-of-prime-numbers-till-n) | [JAVA](./DSA/Beginner-Problems/count-of-prime-numbers-till-n/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
