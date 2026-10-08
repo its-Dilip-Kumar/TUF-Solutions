@@ -144,7 +144,7 @@
 | 0126 | [30. Longest Palindromic Substring](./DSA/Strings/longest-palindromic-substring) | [Solution-2](./DSA/Strings/longest-palindromic-substring/Solution-2.java) | ⚪ Unspecified | `Strings` | `2026-10-06` |
 | 0127 | [16. Longest Substring Without Repeating Characters](./DSA/Strings/longest-substring-without-repeating-characters) | [JAVA](./DSA/Strings/longest-substring-without-repeating-characters/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-07` |
 | 0128 | [729. Lower Bound](./DSA/General/lower-bound-) | [JAVA](./DSA/General/lower-bound-/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
-| 0129 | [51. LRU Cache](./DSA/Stack-Queue/lru-cache) | [Solution-1](./DSA/Stack-Queue/lru-cache/Solution-1.java) | ⚪ Unspecified | `Stack-Queue` | `2026-10-08` |
+| 0129 | [51. LRU Cache](./DSA/Stack-Queue/lru-cache) | [Solution-1](./DSA/Stack-Queue/lru-cache/Solution-1.java) [Solution-2](./DSA/Stack-Queue/lru-cache/Solution-2.java) | ⚪ Unspecified | `Stack-Queue` | `2026-10-08` |
 | 0130 | [83. Majority Element-I](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
 | 0131 | [213. Maximum Consecutive Ones](./DSA/Arrays/maximum-consecutive-ones) | [JAVA](./DSA/Arrays/maximum-consecutive-ones/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
 | 0132 | [392. Maximum Nesting Depth of the Parentheses](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-03` |
