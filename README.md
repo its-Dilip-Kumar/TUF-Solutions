@@ -61,7 +61,7 @@
 | 0043 | [839. Count Occurrences in a Sorted Array](./DSA/Arrays/count-occurrences-in-a-sorted-array) | [JAVA](./DSA/Arrays/count-occurrences-in-a-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 | 0044 | [873. Count of odd numbers in Array](./DSA/Beginner-Problems/count-of-odd-numbers-in-array) | [JAVA](./DSA/Beginner-Problems/count-of-odd-numbers-in-array/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
 | 0045 | [790. Count of Prime Numbers till N](./DSA/Beginner-Problems/count-of-prime-numbers-till-n) | [JAVA](./DSA/Beginner-Problems/count-of-prime-numbers-till-n/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0046 | [14. Count the Number of Set Bits](./DSA/Bit-Manipulation/count-the-number-of-set-bits) | [JAVA](./DSA/Bit-Manipulation/count-the-number-of-set-bits/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-09` |
+| 0046 | [14. Count the Number of Set Bits](./DSA/Bit-Manipulation/count-the-number-of-set-bits) | [JAVA](./DSA/Bit-Manipulation/count-the-number-of-set-bits/solution.java) [Solution-2](./DSA/Bit-Manipulation/count-the-number-of-set-bits/Solution-2.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-09` |
 | 0047 | [28. Course Schedule I](./DSA/General/course-schedule-i) | [JAVA](./DSA/General/course-schedule-i/solution.java) | ⚪ Unspecified | `General` | `2026-09-28` |
 | 0048 | [58. Course Schedule II](./DSA/General/course-schedule-ii) | [JAVA](./DSA/General/course-schedule-ii/solution.java) | ⚪ Unspecified | `General` | `2026-09-28` |
 | 0049 | [892. Delete Tail of Doubly Linked List](./DSA/General/delete-tail-of-dll) | [JAVA](./DSA/General/delete-tail-of-dll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
