@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **286** | 0 | 286 | 0 | `2026-10-10` |
+| **287** | 0 | 287 | 0 | `2026-10-10` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (286)
+### DSA (287)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -290,18 +290,19 @@
 | 0272 | [331. Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [JAVA](./DSA/Arrays/sum-of-subarray-minimums/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
 | 0273 | [232. Surrounded Regions](./DSA/General/surrounded-regions) | [JAVA](./DSA/General/surrounded-regions/solution.java) | ⚪ Unspecified | `General` | `2026-09-28` |
 | 0274 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [JAVA](./DSA/General/swap-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0275 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [JAVA](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0276 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [JAVA](./DSA/General/trapping-rainwater/solution.java) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0277 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
-| 0278 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [JAVA](./DSA/Graphs/traversal-techniques/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0279 | [122. Two sum in BST](./DSA/Trees/two-sum-in-bst) | [JAVA](./DSA/Trees/two-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-03` |
-| 0280 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
-| 0281 | [257. Unique paths II](./DSA/General/unique-paths-ii) | [JAVA](./DSA/General/unique-paths-ii/solution.java) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0282 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
-| 0283 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-03` |
-| 0284 | [293. Wildcard matching](./DSA/General/wildcard-matching) | [JAVA](./DSA/General/wildcard-matching/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0285 | [41. Word Break](./DSA/General/word-break) | [JAVA](./DSA/General/word-break/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0286 | [204. Zig Zag or Spiral Traversal](./DSA/General/zig-zag-or-spiral-traversal) | [JAVA](./DSA/General/zig-zag-or-spiral-traversal/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0275 | [98. Top K Frequent Elements](./DSA/General/top-k-frequent-elements) | [JAVA](./DSA/General/top-k-frequent-elements/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0276 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [JAVA](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0277 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [JAVA](./DSA/General/trapping-rainwater/solution.java) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0278 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
+| 0279 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [JAVA](./DSA/Graphs/traversal-techniques/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0280 | [122. Two sum in BST](./DSA/Trees/two-sum-in-bst) | [JAVA](./DSA/Trees/two-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-03` |
+| 0281 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
+| 0282 | [257. Unique paths II](./DSA/General/unique-paths-ii) | [JAVA](./DSA/General/unique-paths-ii/solution.java) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0283 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
+| 0284 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-03` |
+| 0285 | [293. Wildcard matching](./DSA/General/wildcard-matching) | [JAVA](./DSA/General/wildcard-matching/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0286 | [41. Word Break](./DSA/General/word-break) | [JAVA](./DSA/General/word-break/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0287 | [204. Zig Zag or Spiral Traversal](./DSA/General/zig-zag-or-spiral-traversal) | [JAVA](./DSA/General/zig-zag-or-spiral-traversal/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
 
 ---
 
