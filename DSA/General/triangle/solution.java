@@ -15,9 +15,7 @@ class Solution {
             Arrays.fill(dp[i],-1);
         }
         int min=Integer.MAX_VALUE;
-        for(int j=0;j<m;j++){
-            min=Math.min(min,solve(0,j,triangle,dp));
-        }
+        min=Math.min(min,solve(0,0,triangle,dp));
         return min;
     }
 }
