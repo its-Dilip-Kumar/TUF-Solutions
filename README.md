@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **298** | 0 | 298 | 0 | `2026-10-11` |
+| **298** | 0 | 298 | 0 | `2026-10-12` |
 
 ---
 
@@ -221,7 +221,7 @@
 | 0203 | [953. Pattern 2](./DSA/Beginner-Problems/pattern-2) | [JAVA](./DSA/Beginner-Problems/pattern-2/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
 | 0204 | [962. Pattern 20](./DSA/General/pattern-20) | [JAVA](./DSA/General/pattern-20/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
 | 0205 | [964. Pattern 21](./DSA/Beginner-Problems/pattern-21) | [JAVA](./DSA/Beginner-Problems/pattern-21/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0206 | [973. Pattern 22](./DSA/General/pattern-22) | [JAVA](./DSA/General/pattern-22/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0206 | [973. Pattern 22](./DSA/General/pattern-22) | [JAVA](./DSA/General/pattern-22/solution.java) [Solution-2](./DSA/General/pattern-22/Solution-2.java) | ⚪ Unspecified | `General` | `2026-10-12` |
 | 0207 | [975. Pattern 3](./DSA/Beginner-Problems/pattern-3) | [JAVA](./DSA/Beginner-Problems/pattern-3/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
 | 0208 | [984. Pattern 4](./DSA/Beginner-Problems/pattern-4) | [JAVA](./DSA/Beginner-Problems/pattern-4/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
 | 0209 | [986. Pattern 5](./DSA/Beginner-Problems/pattern-5) | [JAVA](./DSA/Beginner-Problems/pattern-5/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
