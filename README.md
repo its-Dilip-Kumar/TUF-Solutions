@@ -143,7 +143,7 @@
 | 0125 | [706. Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
 | 0126 | [252. Isomorphic Strings](./DSA/Strings/isomorphic-string) | [JAVA](./DSA/Strings/isomorphic-string/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-03` |
 | 0127 | [24. Jump Game - I](./DSA/General/jump-game---i) | [JAVA](./DSA/General/jump-game---i/solution.java) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0128 | [12. Kadane's Algorithm](./DSA/General/kadane's-algorithm) | [JAVA](./DSA/General/kadane's-algorithm/solution.java) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0128 | [12. Kadane's Algorithm](./DSA/General/kadane's-algorithm) | [JAVA](./DSA/General/kadane's-algorithm/solution.java) [Solution-2](./DSA/General/kadane's-algorithm/Solution-2.java) | ⚪ Unspecified | `General` | `2026-10-13` |
 | 0129 | [91. Koko eating bananas](./DSA/General/koko-eating-bananas) | [JAVA](./DSA/General/koko-eating-bananas/solution.java) | ⚪ Unspecified | `General` | `2026-10-05` |
 | 0130 | [212. Kosaraju's algorithm](./DSA/General/kosaraju's-algorithm) | [JAVA](./DSA/General/kosaraju's-algorithm/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
 | 0131 | [241. Kth element of 2 sorted arrays](./DSA/Arrays/kth-element-of-2-sorted-arrays) | [JAVA](./DSA/Arrays/kth-element-of-2-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-05` |
@@ -172,7 +172,7 @@
 | 0154 | [16. Longest Substring Without Repeating Characters](./DSA/Strings/longest-substring-without-repeating-characters) | [JAVA](./DSA/Strings/longest-substring-without-repeating-characters/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-07` |
 | 0155 | [729. Lower Bound](./DSA/General/lower-bound-) | [JAVA](./DSA/General/lower-bound-/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
 | 0156 | [51. LRU Cache](./DSA/Stack-Queue/lru-cache) | [Solution-1](./DSA/Stack-Queue/lru-cache/Solution-1.java) [Solution-2](./DSA/Stack-Queue/lru-cache/Solution-2.java) | ⚪ Unspecified | `Stack-Queue` | `2026-10-08` |
-| 0157 | [83. Majority Element-I](./DSA/General/majority-element-i) | [JAVA](./DSA/General/majority-element-i/solution.java) [Solution-2](./DSA/General/majority-element-i/Solution-2.java) | ⚪ Unspecified | `General` | `2026-10-13` |
+| 0157 | [83. Majority Element-I](./DSA/General/majority-element-i) | [Solution-2](./DSA/General/majority-element-i/Solution-2.java) [JAVA](./DSA/General/majority-element-i/solution.java) | ⚪ Unspecified | `General` | `2026-10-13` |
 | 0158 | [213. Maximum Consecutive Ones](./DSA/Arrays/maximum-consecutive-ones) | [JAVA](./DSA/Arrays/maximum-consecutive-ones/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
 | 0159 | [392. Maximum Nesting Depth of the Parentheses](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Recursion/maximum-nesting-depth-of-the-parentheses/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-03` |
 | 0160 | [20. Maximum path sum](./DSA/Trees/maximum-path-sum-) | [JAVA](./DSA/Trees/maximum-path-sum-/solution.java) | ⚪ Unspecified | `Trees` | `2026-09-29` |
