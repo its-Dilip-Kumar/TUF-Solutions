@@ -180,7 +180,7 @@
 | 0162 | [48. Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
 | 0163 | [114. Maximum sum of non adjacent elements](./DSA/General/maximum-sum-of-non-adjacent-elements) | [JAVA](./DSA/General/maximum-sum-of-non-adjacent-elements/solution.java) | ⚪ Unspecified | `General` | `2026-10-09` |
 | 0164 | [27. Median of 2 sorted arrays](./DSA/Heaps/median-of-2-sorted-arrays) | [JAVA](./DSA/Heaps/median-of-2-sorted-arrays/solution.java) | ⚪ Unspecified | `Heaps` | `2026-10-05` |
-| 0165 | [1020. Merge Sorting](./DSA/Sorting/merge-sorting) | [JAVA](./DSA/Sorting/merge-sorting/solution.java) | ⚪ Unspecified | `General` | `2026-09-26` |
+| 0165 | [1020. Merge Sorting](./DSA/Arrays/merge-sorting) | [JAVA](./DSA/Arrays/merge-sorting/solution.java) [Solution-2](./DSA/Arrays/merge-sorting/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
 | 0166 | [146. Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [JAVA](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
 | 0167 | [377. Minimum Bit Flips to Convert Number](./DSA/Bit-Manipulation/minimum-bit-flips-to-convert-number) | [JAVA](./DSA/Bit-Manipulation/minimum-bit-flips-to-convert-number/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-07` |
 | 0168 | [187. Minimum coins](./DSA/General/minimum-coins) | [JAVA](./DSA/General/minimum-coins/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
