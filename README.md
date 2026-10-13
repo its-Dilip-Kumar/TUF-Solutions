@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **308** | 0 | 308 | 0 | `2026-10-12` |
+| **308** | 0 | 308 | 0 | `2026-10-13` |
 
 ---
 
@@ -139,7 +139,7 @@
 | 0121 | [954. Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-kth-position-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
 | 0122 | [958. Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-ll) | [JAVA](./DSA/Linked-List/insertion-at-the-tail-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
 | 0123 | [967. Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-ll) | [JAVA](./DSA/Linked-List/insertion-before-the-value-x-in-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
-| 0124 | [1013. Insertion Sorting](./DSA/Arrays/insertion-sorting) | [JAVA](./DSA/Arrays/insertion-sorting/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0124 | [1013. Insertion Sorting](./DSA/Arrays/insertion-sorting) | [JAVA](./DSA/Arrays/insertion-sorting/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
 | 0125 | [706. Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
 | 0126 | [252. Isomorphic Strings](./DSA/Strings/isomorphic-string) | [JAVA](./DSA/Strings/isomorphic-string/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-03` |
 | 0127 | [24. Jump Game - I](./DSA/General/jump-game---i) | [JAVA](./DSA/General/jump-game---i/solution.java) | ⚪ Unspecified | `General` | `2026-10-07` |
