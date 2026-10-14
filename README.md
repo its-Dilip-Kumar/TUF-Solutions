@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **310** | 0 | 310 | 0 | `2026-10-13` |
+| **311** | 0 | 311 | 0 | `2026-10-14` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (310)
+### DSA (311)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -287,45 +287,46 @@
 | 0269 | [955. Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [JAVA](./DSA/General/shortest-path-in-dag/solution.java) | ⚪ Unspecified | `General` | `2026-09-29` |
 | 0270 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [JAVA](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-29` |
 | 0271 | [304. Shortest Distance in a Binary Maze](./DSA/General/shortest-path-with-minimum-effort) | [JAVA](./DSA/General/shortest-path-with-minimum-effort/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-09-30` |
-| 0272 | [63. Single Number - I](./DSA/Bit-Manipulation/single-number---i) | [JAVA](./DSA/Bit-Manipulation/single-number---i/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-07` |
-| 0273 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [JAVA](./DSA/Bit-Manipulation/single-number---ii/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-07` |
-| 0274 | [346. Single Number - III](./DSA/Bit-Manipulation/single-number---iii) | [JAVA](./DSA/Bit-Manipulation/single-number---iii/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-07` |
-| 0275 | [57. Sliding Window Maximum](./DSA/Sliding-Window/sliding-window-maximum) | [JAVA](./DSA/Sliding-Window/sliding-window-maximum/solution.java) | ⚪ Unspecified | `Sliding-Window` | `2026-10-09` |
-| 0276 | [303. Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0277 | [309. Split array - largest sum](./DSA/Arrays/split-array---largest-sum) | [JAVA](./DSA/Arrays/split-array---largest-sum/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-05` |
-| 0278 | [217. Stock span problem](./DSA/General/stock-span-problem) | [JAVA](./DSA/General/stock-span-problem/solution.java) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0279 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [JAVA](./DSA/Strings/string-to-integer-atoi/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-06` |
-| 0280 | [292. Subarrays with K Different Integers](./DSA/Arrays/subarrays-with-k-different-integers) | [JAVA](./DSA/Arrays/subarrays-with-k-different-integers/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
-| 0281 | [84. Subset sum equals to target](./DSA/Recursion/subset-sum-equals-to-target) | [JAVA](./DSA/Recursion/subset-sum-equals-to-target/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-10` |
-| 0282 | [6. Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-06` |
-| 0283 | [128. Subsets II](./DSA/Recursion/subsets-ii) | [JAVA](./DSA/Recursion/subsets-ii/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-06` |
-| 0284 | [92. Sudoku Solver](./DSA/Backtracking/sudoko-solver) | [JAVA](./DSA/Backtracking/sudoko-solver/solution.java) | ⚪ Unspecified | `Backtracking` | `2026-10-06` |
-| 0285 | [886. Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0286 | [897. Sum of Array Elements II](./DSA/Beginner-Problems/sum-of-array-elements-ii) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements-ii/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0287 | [396. Sum of Beauty of All Substrings](./DSA/Strings/sum-of-beauty-of-all-substrings) | [JAVA](./DSA/Strings/sum-of-beauty-of-all-substrings/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-06` |
-| 0288 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0289 | [932. Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [JAVA](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0290 | [749. Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0291 | [331. Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [JAVA](./DSA/Arrays/sum-of-subarray-minimums/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
-| 0292 | [232. Surrounded Regions](./DSA/General/surrounded-regions) | [JAVA](./DSA/General/surrounded-regions/solution.java) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0293 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [JAVA](./DSA/General/swap-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0294 | [54. Task Scheduler](./DSA/General/task-scheduler) | [JAVA](./DSA/General/task-scheduler/solution.java) | ⚪ Unspecified | `General` | `2026-10-11` |
-| 0295 | [98. Top K Frequent Elements](./DSA/General/top-k-frequent-elements) | [JAVA](./DSA/General/top-k-frequent-elements/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0296 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [JAVA](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0297 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [JAVA](./DSA/General/trapping-rainwater/solution.java) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0298 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
-| 0299 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [JAVA](./DSA/Graphs/traversal-techniques/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0300 | [249. Triangle](./DSA/General/triangle) | [JAVA](./DSA/General/triangle/solution.java) | ⚪ Unspecified | `General` | `2026-10-11` |
-| 0301 | [1. Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0302 | [122. Two sum in BST](./DSA/Trees/two-sum-in-bst) | [JAVA](./DSA/Trees/two-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-03` |
-| 0303 | [744. Unbounded knapsack](./DSA/Dynamic-Programming/unbounded-knapsack) | [JAVA](./DSA/Dynamic-Programming/unbounded-knapsack/solution.java) | ⚪ Unspecified | `Dynamic-Programming` | `2026-10-11` |
-| 0304 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
-| 0305 | [257. Unique paths II](./DSA/General/unique-paths-ii) | [JAVA](./DSA/General/unique-paths-ii/solution.java) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0306 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
-| 0307 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-03` |
-| 0308 | [293. Wildcard matching](./DSA/General/wildcard-matching) | [JAVA](./DSA/General/wildcard-matching/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0309 | [41. Word Break](./DSA/General/word-break) | [JAVA](./DSA/General/word-break/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0310 | [204. Zig Zag or Spiral Traversal](./DSA/General/zig-zag-or-spiral-traversal) | [JAVA](./DSA/General/zig-zag-or-spiral-traversal/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0272 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [JAVA](./DSA/Arrays/single-element-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-14` |
+| 0273 | [63. Single Number - I](./DSA/Bit-Manipulation/single-number---i) | [JAVA](./DSA/Bit-Manipulation/single-number---i/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-07` |
+| 0274 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [JAVA](./DSA/Bit-Manipulation/single-number---ii/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-07` |
+| 0275 | [346. Single Number - III](./DSA/Bit-Manipulation/single-number---iii) | [JAVA](./DSA/Bit-Manipulation/single-number---iii/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-07` |
+| 0276 | [57. Sliding Window Maximum](./DSA/Sliding-Window/sliding-window-maximum) | [JAVA](./DSA/Sliding-Window/sliding-window-maximum/solution.java) | ⚪ Unspecified | `Sliding-Window` | `2026-10-09` |
+| 0277 | [303. Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0278 | [309. Split array - largest sum](./DSA/Arrays/split-array---largest-sum) | [JAVA](./DSA/Arrays/split-array---largest-sum/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-05` |
+| 0279 | [217. Stock span problem](./DSA/General/stock-span-problem) | [JAVA](./DSA/General/stock-span-problem/solution.java) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0280 | [49. String to Integer (atoi)](./DSA/Strings/string-to-integer-atoi) | [JAVA](./DSA/Strings/string-to-integer-atoi/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-06` |
+| 0281 | [292. Subarrays with K Different Integers](./DSA/Arrays/subarrays-with-k-different-integers) | [JAVA](./DSA/Arrays/subarrays-with-k-different-integers/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
+| 0282 | [84. Subset sum equals to target](./DSA/Recursion/subset-sum-equals-to-target) | [JAVA](./DSA/Recursion/subset-sum-equals-to-target/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-10` |
+| 0283 | [6. Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-06` |
+| 0284 | [128. Subsets II](./DSA/Recursion/subsets-ii) | [JAVA](./DSA/Recursion/subsets-ii/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-06` |
+| 0285 | [92. Sudoku Solver](./DSA/Backtracking/sudoko-solver) | [JAVA](./DSA/Backtracking/sudoko-solver/solution.java) | ⚪ Unspecified | `Backtracking` | `2026-10-06` |
+| 0286 | [886. Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0287 | [897. Sum of Array Elements II](./DSA/Beginner-Problems/sum-of-array-elements-ii) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements-ii/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0288 | [396. Sum of Beauty of All Substrings](./DSA/Strings/sum-of-beauty-of-all-substrings) | [JAVA](./DSA/Strings/sum-of-beauty-of-all-substrings/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-06` |
+| 0289 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0290 | [932. Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [JAVA](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0291 | [749. Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0292 | [331. Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [JAVA](./DSA/Arrays/sum-of-subarray-minimums/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
+| 0293 | [232. Surrounded Regions](./DSA/General/surrounded-regions) | [JAVA](./DSA/General/surrounded-regions/solution.java) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0294 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [JAVA](./DSA/General/swap-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0295 | [54. Task Scheduler](./DSA/General/task-scheduler) | [JAVA](./DSA/General/task-scheduler/solution.java) | ⚪ Unspecified | `General` | `2026-10-11` |
+| 0296 | [98. Top K Frequent Elements](./DSA/General/top-k-frequent-elements) | [JAVA](./DSA/General/top-k-frequent-elements/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0297 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [JAVA](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0298 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [JAVA](./DSA/General/trapping-rainwater/solution.java) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0299 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
+| 0300 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [JAVA](./DSA/Graphs/traversal-techniques/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0301 | [249. Triangle](./DSA/General/triangle) | [JAVA](./DSA/General/triangle/solution.java) | ⚪ Unspecified | `General` | `2026-10-11` |
+| 0302 | [1. Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0303 | [122. Two sum in BST](./DSA/Trees/two-sum-in-bst) | [JAVA](./DSA/Trees/two-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-03` |
+| 0304 | [744. Unbounded knapsack](./DSA/Dynamic-Programming/unbounded-knapsack) | [JAVA](./DSA/Dynamic-Programming/unbounded-knapsack/solution.java) | ⚪ Unspecified | `Dynamic-Programming` | `2026-10-11` |
+| 0305 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
+| 0306 | [257. Unique paths II](./DSA/General/unique-paths-ii) | [JAVA](./DSA/General/unique-paths-ii/solution.java) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0307 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
+| 0308 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-03` |
+| 0309 | [293. Wildcard matching](./DSA/General/wildcard-matching) | [JAVA](./DSA/General/wildcard-matching/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0310 | [41. Word Break](./DSA/General/word-break) | [JAVA](./DSA/General/word-break/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0311 | [204. Zig Zag or Spiral Traversal](./DSA/General/zig-zag-or-spiral-traversal) | [JAVA](./DSA/General/zig-zag-or-spiral-traversal/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
 
 ---
 
