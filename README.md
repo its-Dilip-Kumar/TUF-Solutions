@@ -247,8 +247,8 @@
 | 0229 | [999. Prefix to Infix Conversion](./DSA/General/prefix-to-infix-conversion) | [JAVA](./DSA/General/prefix-to-infix-conversion/solution.java) | ⚪ Unspecified | `General` | `2026-10-08` |
 | 0230 | [1003. Prefix to Postfix Conversion](./DSA/General/prefix-to-postfix-conversion) | [JAVA](./DSA/General/prefix-to-postfix-conversion/solution.java) | ⚪ Unspecified | `General` | `2026-10-08` |
 | 0231 | [42. Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | ⚪ Unspecified | `Trees` | `2026-09-29` |
-| 0232 | [834. Prime factorisation of a Number](./DSA/General/prime-factorisation-of-a-number) | [JAVA](./DSA/General/prime-factorisation-of-a-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-14` |
-| 0233 | [836. Print all primes till N](./DSA/General/print-all-primes-till-n) | [JAVA](./DSA/General/print-all-primes-till-n/solution.java) [Solution-2](./DSA/General/print-all-primes-till-n/Solution-2.java) | ⚪ Unspecified | `General` | `2026-10-15` |
+| 0232 | [834. Prime factorisation of a Number](./DSA/General/prime-factorisation-of-a-number) | [JAVA](./DSA/General/prime-factorisation-of-a-number/solution.java) [Solution-2](./DSA/General/prime-factorisation-of-a-number/Solution-2.java) | ⚪ Unspecified | `General` | `2026-10-15` |
+| 0233 | [836. Print all primes till N](./DSA/General/print-all-primes-till-n) | [Solution-2](./DSA/General/print-all-primes-till-n/Solution-2.java) [JAVA](./DSA/General/print-all-primes-till-n/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
 | 0234 | [969. Print Shortest Path](./DSA/General/print-shortest-path-) | [JAVA](./DSA/General/print-shortest-path-/solution.java) | ⚪ Unspecified | `General` | `2026-09-29` |
 | 0235 | [107. Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
 | 0236 | [1024. Quick Sorting](./DSA/Arrays/quick-sorting) | [JAVA](./DSA/Arrays/quick-sorting/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
