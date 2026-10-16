@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **320** | 0 | 320 | 0 | `2026-10-16` |
+| **321** | 0 | 321 | 0 | `2026-10-16` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (320)
+### DSA (321)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -72,7 +72,7 @@
 | 0054 | [839. Count Occurrences in a Sorted Array](./DSA/Arrays/count-occurrences-in-a-sorted-array) | [JAVA](./DSA/Arrays/count-occurrences-in-a-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 | 0055 | [873. Count of odd numbers in Array](./DSA/Beginner-Problems/count-of-odd-numbers-in-array) | [JAVA](./DSA/Beginner-Problems/count-of-odd-numbers-in-array/solution.java) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
 | 0056 | [790. Count of Prime Numbers till N](./DSA/General/count-of-prime-numbers-till-n) | [Solution-2](./DSA/General/count-of-prime-numbers-till-n/Solution-2.java) [JAVA](./DSA/General/count-of-prime-numbers-till-n/solution.java) | ⚪ Unspecified | `General` | `2026-10-12` |
-| 0057 | [268. Count primes in range L to R](./DSA/General/count-primes-in-range-l-to-r) | [JAVA](./DSA/General/count-primes-in-range-l-to-r/solution.java) [Solution-2](./DSA/General/count-primes-in-range-l-to-r/Solution-2.java) | ⚪ Unspecified | `General` | `2026-10-15` |
+| 0057 | [268. Count primes in range L to R](./DSA/General/count-primes-in-range-l-to-r) | [Solution-2](./DSA/General/count-primes-in-range-l-to-r/Solution-2.java) [JAVA](./DSA/General/count-primes-in-range-l-to-r/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
 | 0058 | [Count Square Submatrices with All Ones](./DSA/General/count-square-submatrices-with-all-one) | [JAVA](./DSA/General/count-square-submatrices-with-all-one/solution.java) | ⚪ Unspecified | `General` | `2026-10-11` |
 | 0059 | [731. Count subsets with sum K](./DSA/Recursion/count-subsets-with-sum-k) | [JAVA](./DSA/Recursion/count-subsets-with-sum-k/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-10` |
 | 0060 | [14. Count the Number of Set Bits](./DSA/Bit-Manipulation/count-the-number-of-set-bits) | [Solution-2](./DSA/Bit-Manipulation/count-the-number-of-set-bits/Solution-2.java) [JAVA](./DSA/Bit-Manipulation/count-the-number-of-set-bits/solution.java) | ⚪ Unspecified | `Bit-Manipulation` | `2026-10-09` |
@@ -320,22 +320,23 @@
 | 0302 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [JAVA](./DSA/General/swap-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-07` |
 | 0303 | [54. Task Scheduler](./DSA/General/task-scheduler) | [JAVA](./DSA/General/task-scheduler/solution.java) | ⚪ Unspecified | `General` | `2026-10-11` |
 | 0304 | [98. Top K Frequent Elements](./DSA/General/top-k-frequent-elements) | [JAVA](./DSA/General/top-k-frequent-elements/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0305 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [JAVA](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0306 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [JAVA](./DSA/General/trapping-rainwater/solution.java) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0307 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
-| 0308 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [JAVA](./DSA/Graphs/traversal-techniques/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
-| 0309 | [249. Triangle](./DSA/General/triangle) | [JAVA](./DSA/General/triangle/solution.java) | ⚪ Unspecified | `General` | `2026-10-11` |
-| 0310 | [1. Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0311 | [122. Two sum in BST](./DSA/Trees/two-sum-in-bst) | [JAVA](./DSA/Trees/two-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-03` |
-| 0312 | [744. Unbounded knapsack](./DSA/Dynamic-Programming/unbounded-knapsack) | [JAVA](./DSA/Dynamic-Programming/unbounded-knapsack/solution.java) | ⚪ Unspecified | `Dynamic-Programming` | `2026-10-11` |
-| 0313 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
-| 0314 | [257. Unique paths II](./DSA/General/unique-paths-ii) | [JAVA](./DSA/General/unique-paths-ii/solution.java) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0315 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
-| 0316 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-03` |
-| 0317 | [193. Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [JAVA](./DSA/Trees/vertical-order-traversal/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-16` |
-| 0318 | [293. Wildcard matching](./DSA/General/wildcard-matching) | [JAVA](./DSA/General/wildcard-matching/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0319 | [41. Word Break](./DSA/General/word-break) | [JAVA](./DSA/General/word-break/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0320 | [204. Zig Zag or Spiral Traversal](./DSA/General/zig-zag-or-spiral-traversal) | [JAVA](./DSA/General/zig-zag-or-spiral-traversal/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0305 | [180. Top View of BT](./DSA/Trees/top-view-of-bt) | [JAVA](./DSA/Trees/top-view-of-bt/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-16` |
+| 0306 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [JAVA](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0307 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [JAVA](./DSA/General/trapping-rainwater/solution.java) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0308 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
+| 0309 | [181. Traversal Techniques](./DSA/Graphs/traversal-techniques) | [JAVA](./DSA/Graphs/traversal-techniques/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-25` |
+| 0310 | [249. Triangle](./DSA/General/triangle) | [JAVA](./DSA/General/triangle/solution.java) | ⚪ Unspecified | `General` | `2026-10-11` |
+| 0311 | [1. Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0312 | [122. Two sum in BST](./DSA/Trees/two-sum-in-bst) | [JAVA](./DSA/Trees/two-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-03` |
+| 0313 | [744. Unbounded knapsack](./DSA/Dynamic-Programming/unbounded-knapsack) | [JAVA](./DSA/Dynamic-Programming/unbounded-knapsack/solution.java) | ⚪ Unspecified | `Dynamic-Programming` | `2026-10-11` |
+| 0314 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-27` |
+| 0315 | [257. Unique paths II](./DSA/General/unique-paths-ii) | [JAVA](./DSA/General/unique-paths-ii/solution.java) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0316 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
+| 0317 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-03` |
+| 0318 | [193. Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [JAVA](./DSA/Trees/vertical-order-traversal/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-16` |
+| 0319 | [293. Wildcard matching](./DSA/General/wildcard-matching) | [JAVA](./DSA/General/wildcard-matching/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0320 | [41. Word Break](./DSA/General/word-break) | [JAVA](./DSA/General/word-break/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0321 | [204. Zig Zag or Spiral Traversal](./DSA/General/zig-zag-or-spiral-traversal) | [JAVA](./DSA/General/zig-zag-or-spiral-traversal/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
 
 ---
 
