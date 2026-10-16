@@ -29,11 +29,7 @@ class Solution {
             TreeNode node=curr.node;
             int hd=curr.hd;
 
-            if(map.containsKey(hd)){
-                map.put(hd,node.data);
-            }else{
-                map.put(hd,node.data);
-            }
+            map.put(hd,node.data);
 
             if(node.left!=null){
                 q.add(new Pair(node.left,hd-1));
