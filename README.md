@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **319** | 0 | 319 | 0 | `2026-10-15` |
+| **320** | 0 | 320 | 0 | `2026-10-16` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (319)
+### DSA (320)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -332,9 +332,10 @@
 | 0314 | [257. Unique paths II](./DSA/General/unique-paths-ii) | [JAVA](./DSA/General/unique-paths-ii/solution.java) | ⚪ Unspecified | `General` | `2026-10-09` |
 | 0315 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-04` |
 | 0316 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-03` |
-| 0317 | [293. Wildcard matching](./DSA/General/wildcard-matching) | [JAVA](./DSA/General/wildcard-matching/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0318 | [41. Word Break](./DSA/General/word-break) | [JAVA](./DSA/General/word-break/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0319 | [204. Zig Zag or Spiral Traversal](./DSA/General/zig-zag-or-spiral-traversal) | [JAVA](./DSA/General/zig-zag-or-spiral-traversal/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0317 | [193. Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [JAVA](./DSA/Trees/vertical-order-traversal/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-16` |
+| 0318 | [293. Wildcard matching](./DSA/General/wildcard-matching) | [JAVA](./DSA/General/wildcard-matching/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0319 | [41. Word Break](./DSA/General/word-break) | [JAVA](./DSA/General/word-break/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0320 | [204. Zig Zag or Spiral Traversal](./DSA/General/zig-zag-or-spiral-traversal) | [JAVA](./DSA/General/zig-zag-or-spiral-traversal/solution.java) | ⚪ Unspecified | `General` | `2026-10-03` |
 
 ---
 
