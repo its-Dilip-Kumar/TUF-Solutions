@@ -6,40 +6,35 @@ class Pair{
         this.parent=parent;
     }
 }
-
 class Solution {
-    public static boolean bfs(int sr,Queue<Pair> q,boolean[] visited,List<Integer>[] adj){
-        q.add(new Pair(sr,-1));
-        visited[sr]=true;
+    public static boolean bfs(int node,List<Integer>[] adj,boolean[] visited){
+        Queue<Pair> q=new LinkedList<>();
+        q.add(new Pair(node,-1));
+        visited[node]=true;
 
         while(!q.isEmpty()){
-            Pair node=q.remove();
-            int child=node.node;
-            int parent=node.parent;
+            Pair curr=q.remove();
+            int currnode=curr.node;
+            int currparent=curr.parent;
 
-            for(int it:adj[child]){
-                if(!visited[it]){
-                    q.add(new Pair(it,child));
-                    visited[it]=true;
-                }
-                else if(parent!=it){
-                    return true;
+            for(int neigbour:adj[currnode]){
+                if(!visited[neigbour]){
+                    visited[neigbour]=true;
+                    q.add(new Pair(neigbour,currnode));
+                }else if(neigbour!=currparent){
+                    return false;
                 }
             }
-            
         }
-        return false;
+        return true;
     }
     public boolean isCycle(int V, List<Integer>[] adj) {
-        Queue<Pair> q=new LinkedList<>();
         boolean[] visited=new boolean[V];
         for(int i=0;i<V;i++){
             if(!visited[i]){
-                if(bfs(i,q,visited,adj)) return true;
+                if(!bfs(i,adj,visited)) return true;
             }
-            
         }
         return false;
-        
     }
 }

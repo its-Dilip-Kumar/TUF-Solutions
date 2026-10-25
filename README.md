@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **328** | 0 | 328 | 0 | `2026-10-17` |
+| **328** | 0 | 328 | 0 | `2026-10-25` |
 
 ---
 
@@ -90,7 +90,7 @@
 | 0072 | [905. Deletion of the Kth element of Linked List](./DSA/Linked-List/deletion-of-the-kth-element-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-kth-element-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
 | 0073 | [914. Deletion of the tail of Linked List](./DSA/Linked-List/deletion-of-the-tail-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-tail-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
 | 0074 | [192. Detect a cycle in a directed graph](./DSA/Graphs/detect-a-cycle-in-a-directed-graph) | [JAVA](./DSA/Graphs/detect-a-cycle-in-a-directed-graph/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0075 | [190. Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [JAVA](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0075 | [190. Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [JAVA](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.java) | ⚪ Unspecified | `Graphs` | `2026-10-25` |
 | 0076 | [109. Dijkstra's algorithm](./DSA/Graphs/dijkstra's-algorithm) | [JAVA](./DSA/Graphs/dijkstra's-algorithm/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-29` |
 | 0077 | [810. Disjoint Set](./DSA/General/disjoint-set-) | [JAVA](./DSA/General/disjoint-set-/solution.java) | ⚪ Unspecified | `Joins` | `2026-10-02` |
 | 0078 | [317. Distance of nearest cell having one](./DSA/Graphs/distance-of-nearest-cell-having-one) | [JAVA](./DSA/Graphs/distance-of-nearest-cell-having-one/solution.java) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
